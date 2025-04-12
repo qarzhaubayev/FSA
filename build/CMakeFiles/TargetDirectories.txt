@@ -1,0 +1,4 @@
+/home/akarzhaubayev/Desktop/NU_Courses/Hardware_And_Software/Assignment-4/FSA/build/CMakeFiles/vending.dir
+/home/akarzhaubayev/Desktop/NU_Courses/Hardware_And_Software/Assignment-4/FSA/build/CMakeFiles/vending_app.dir
+/home/akarzhaubayev/Desktop/NU_Courses/Hardware_And_Software/Assignment-4/FSA/build/CMakeFiles/edit_cache.dir
+/home/akarzhaubayev/Desktop/NU_Courses/Hardware_And_Software/Assignment-4/FSA/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/vending_app.dir/main.cpp.o -o vending_app  libvending.a 

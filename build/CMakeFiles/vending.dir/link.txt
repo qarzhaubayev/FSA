@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvending.a CMakeFiles/vending.dir/VendingMachine.cpp.o
+/usr/bin/ranlib libvending.a
