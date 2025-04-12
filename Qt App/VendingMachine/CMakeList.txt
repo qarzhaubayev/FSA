@@ -1,0 +1,20 @@
+# CMakeLists.txt
+cmake_minimum_required(VERSION 3.16)
+project(VendingMachineQt LANGUAGES CXX)
+
+find_package(Qt6 REQUIRED COMPONENTS Widgets)
+
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(vending_gui
+    main.cpp
+    mainwindow.cpp
+    VendingMachine.cpp
+    mainwindow.h
+    VendingMachine.hpp
+    mainwindow.ui
+)
+target_link_libraries(vending_gui PRIVATE Qt6::Widgets)
+
